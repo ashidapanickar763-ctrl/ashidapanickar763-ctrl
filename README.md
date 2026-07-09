@@ -8,19 +8,19 @@ Welcome to my GitHub! I'm a BCA graduate with a Professional Cybersecurity Certi
 
 ### 👩‍💻 About Me
 
-- 🎓 BCA Graduate
-- 🛡️ Professional Certification in Cybersecurity
-- 💻 Focused on Blue Team fundamentals — log analysis, network monitoring, incident investigation
-- 🌱 Learning by building: every repo here is a real lab I've done myself
-- 📝 Documenting my SOC learning journey publicly
-- 🤝 Open to internships and entry-level SOC/Cybersecurity opportunities
+-  Graduate
+-  Professional Certification in Cybersecurity
+-  Focused on Blue Team fundamentals — log analysis, network monitoring, incident investigation
+-  Learning by building: every repo here is a real lab I've done myself
+-  Documenting my SOC learning journey publicly
+-  Open to internships and entry-level SOC/Cybersecurity opportunities
 
 ---
 
 ### 🎯 Career Interests
 
-- 🛡️ SOC Analyst (L1)
-- 🔐 Cybersecurity Analyst
+-  SOC Analyst (L1)
+-  Cybersecurity Analyst
 
 ---
 
@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm a BCA graduate with a Professional Cybersecurity Certi
 - Linux (Kali Linux, RedHat Linux)
 
 **Networking**
-- TCP/IP, DNS, OSI Model
+- TCP/IP, DNS, DHCP, OSI Model
 - Common ports & protocols
 - Firewalls, IDS/IPS basics
 
@@ -39,16 +39,6 @@ Welcome to my GitHub! I'm a BCA graduate with a Professional Cybersecurity Certi
 - Splunk (log analysis, SPL basics)
 - Nmap (network scanning)
 - Wireshark (packet analysis)
-
----
-
-### 📚 Currently Learning
-
-- SOC alert triage & incident response workflow
-- Windows Event Log analysis
-- MITRE ATT&CK framework
-- Snort (IDS rules)
-- Microsoft Sentinel (SIEM concepts)
 
 ---
 
@@ -61,7 +51,12 @@ More labs coming soon — check back for updates on my SOC home lab, log analysi
 
 ### 📜 Certification
 
-- Professional Certification in Cybersecurity — SMEC Technologies, Kochi
+- Professional Certification in Cybersecurity — SMEC Technologies, Kochi(program covered CompTIA A+ (220-1101)
+CompTIA Network+(N10-009)
+CCNA (200-301)
+Microsoft certified : Windows Server Hybrid Administrator Associate (AZ-800 & AZ-801)
+RHCSA | RH124 || RH134
+CompTIA CySA+ (CYSA+ CS003))
 
 ---
 
