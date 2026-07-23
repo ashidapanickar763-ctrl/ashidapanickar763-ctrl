@@ -69,7 +69,7 @@ I'm building a strong practical foundation in SOC operations and cybersecurity f
 ### 📫 Connect With Me
 
 - 💼 LinkedIn: linkedin.com/in/ashitha-panicker
-- 📧 Email: ashidapanickar763@gmail.com
+- 📧 Email: ashithapanicker01@gmail.com
 
 ---
 
